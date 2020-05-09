@@ -34,4 +34,7 @@ git config --global user.email "845794204@qq.com"
    ```
    git remote add origin 'xxxxx'
    ```
-
+   
+   
+   
+5. 第一次 push 在命令行手动输入(ide很麻烦)
